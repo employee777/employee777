@@ -13,11 +13,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Employee777&show_icons=true" alt="Employee777" />
 </p>
 
-1. [Project # 1](https://employee777.github.io/)
-2. [Project # 2](https://employee777.github.io/)
-3. [Project # 3](https://employee777.github.io/)
-4. [Project # 4](https://employee777.github.io/)
-5. [Project # 5](https://employee777.github.io/)
 
 ### Things I enjoy working on
 * Video game Dev
